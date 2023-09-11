@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.63b43898.css",
-    "main.js": "/static/js/main.5211912b.js",
-    "static/js/787.ae94230f.chunk.js": "/static/js/787.ae94230f.chunk.js",
-    "static/media/pattern-bg-desktop.png": "/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
-    "index.html": "/index.html",
-    "static/media/icon-arrow.svg": "/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
-    "main.63b43898.css.map": "/static/css/main.63b43898.css.map",
-    "main.5211912b.js.map": "/static/js/main.5211912b.js.map",
-    "787.ae94230f.chunk.js.map": "/static/js/787.ae94230f.chunk.js.map"
+    "main.css": "/ip-address-tracker/static/css/main.c55fed74.css",
+    "main.js": "/ip-address-tracker/static/js/main.912b5d7a.js",
+    "static/js/787.ae94230f.chunk.js": "/ip-address-tracker/static/js/787.ae94230f.chunk.js",
+    "static/media/pattern-bg-desktop.png": "/ip-address-tracker/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
+    "index.html": "/ip-address-tracker/index.html",
+    "static/media/icon-location.svg": "/ip-address-tracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "static/media/icon-arrow.svg": "/ip-address-tracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.c55fed74.css.map": "/ip-address-tracker/static/css/main.c55fed74.css.map",
+    "main.912b5d7a.js.map": "/ip-address-tracker/static/js/main.912b5d7a.js.map",
+    "787.ae94230f.chunk.js.map": "/ip-address-tracker/static/js/787.ae94230f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63b43898.css",
-    "static/js/main.5211912b.js"
+    "static/css/main.c55fed74.css",
+    "static/js/main.912b5d7a.js"
   ]
 }
